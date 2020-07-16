@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<launch>
+ <node pkg="elmo_pkgs2" type="elmo_pkgs2_exe" name="elmo_node" output="screen" cwd="node"/>
+<!-- <include file="$(find pongbot_one_leg_rviz)/launch/display.launch"/>-->
+</launch>
+
